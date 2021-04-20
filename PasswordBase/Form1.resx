@@ -1,0 +1,137 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAALsAAAC7AAAAAAAAAAAA
+        AAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAAgAAAEYAAACjAAAA5AAA
+        AB////8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8AAAAAOQAAAJAAAABvAAAAGv///wAAAAC7AAAA3AAA
+        AH4AAAC0AAAAfP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wAAAAAiAAAAfgAAANsAAADlAAAAjgAAAK4AAAD1AAAAwAAA
+        AOsAAAB8////AAAAAEgAAADZ////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AAAAABAAAABmAAAAxAAAAPMAAACjAAAARQAAAAL///8A////AAAA
+        AA0AAABbAAAAgwAAANn///8AAAAAAwAAAOcAAAA3////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8AAAAABQAAAE4AAACrAAAA9gAAALsAAABeAAAAC////wD///8A////AP//
+        /wD///8A////AP///wAAAAACAAAA5QAAADf///8AAAAAjQAAAJX///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AAAAAHYAAADrAAAA1AAAAHYAAAAbAAAAEQAAAKcAAADZAAAAwgAA
+        AJYAAABpAAAAPQAAABD///8A////AP///wAAAACMAAAAlP///wAAAAAwAAAA7QAAAAb///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wAAAABuAAAA6gAAADP///8A////AP///wAAAACaAAAAnQAA
+        AC0AAABPAAAAfQAAAKoAAADYAAAA/AAAAHv///8A////AAAAADAAAADsAAAABf///wAAAADSAAAAUf//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AAAAAKUAAACC////AAAAAAQAAABKAAAAqAAA
+        APkAAABl////AP///wD///8A////AP///wAAAAAJAAAAEP///wD///8A////AAAAANQAAABP////AAAA
+        AHUAAACu////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAUAAAAO0AAACyAAAA6QAA
+        ANMAAAB1AAAASQAAAN0AAAC2AAAAiQAAAF0AAAAwAAAACP///wD///8A////AAAAABMAAABpAAAA3gAA
+        ALMAAABgAAAAxQAAANX///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAALAAA
+        AE8AAAAx////AP///wD///8AAAAAEAAAAFsAAACIAAAAtgAAAOMAAAD8AAAA2AAAAKsAAACzAAAA9wAA
+        ALoAAABpAAAA6wAAAMEAAABjAAAAD////wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wAAAAAP////AP///wD///8A////AAAAABEAAAA/AAAAbAAA
+        AG8AAAAa////AP///wAAAAAC////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wAAAAADAAAAsgAAAP8AAACsAAAAAf///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AAAAABgAAADzAAAAHgAAAP8AAAAQ////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAGAAAAPD///8AAAAA/wAA
+        ABD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wAAAAAYAAAA8P//
+        /wAAAAD/AAAAEP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AAAA
+        ABgAAADw////AAAAAP8AAAAQ////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8AAAAAGAAAAPD///8AAAAA/wAAABD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AAAAABsAAACkAAAA/AAAAMgAAAD/AAAAnwAAABj///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8AAAAAjwAAAKwAAABAAAAAQAAAAEAAAACyAAAAh////wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wAAAACwAAAAYP///wAAAAAI////AAAAAGgAAACo////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AAAAALAAAAB9AAAAhgAAAPAAAABBAAAAaAAA
+        AKj///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wAAAAAB////AP///wD///8AAAAAsgAAAPwAAACqAAAAwwAA
+        ACcAAACKAAAAqP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AAAA
+        AFAAAACAAAAAgAAAAIAAAAB8AAAADwAAACwAAACiAAAA4QAAAPAAAAC8AAAAOgAAABoAAADsAAAA1wAA
+        ANgAAACYAAAA5QAAANQAAADqAAAAGv///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8AAAAA5wAAAJoAAACIAAAAiAAAANYAAACAAAAA4wAAAHgAAAAuAAAAIwAAAGYAAADuAAAAzwAA
+        AJf///8AAAAAMQAAAHEAAAAs////AAAAALoAAADnAAAApwAAAA////8A////AP///wD///8A////AP//
+        /wD///8A////AP///wAAAADoAAAAKP///wD///8AAAAAqAAAAP4AAAB8////AP///wD///8A////AAAA
+        AFYAAAD+AAAA9QAAAPAAAADvAAAAxgAAADUAAACDAAAA/gAAAMIAAAC6AAAAgf///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AAAAAOgAAAAo////AP///wAAAACoAAAAcv///wD///8A////AP//
+        /wD///8A////AAAAABoAAAAgAAAAIAAAACAAAAByAAAA9wAAANsAAAC6AAAAhwAAAJsAAACU////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8AAAAA6AAAACj///8A////AAAAAKgAAABg////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AAAAACYAAADyAAAAQwAAAO8AAACDAAAA7wAA
+        ACf///8A////AP///wD///8A////AP///wD///8A////AP///wAAAADoAAAAKP///wD///8AAAAAqAAA
+        AGD///8A////AP///wD///8AAAAAogAAAMAAAADAAAAAwAAAAMAAAADAAAAA8AAAAOAAAADyAAAAyQAA
+        AO8AAABB////AP///wD///8A////AP///wD///8A////AP///wD///8A////AAAAAOgAAAAo////AP//
+        /wAAAACoAAAAYP///wD///8A////AP///wAAAABDAAAAUAAAAFAAAABQAAAAWgAAAJcAAADJAAAAoQAA
+        AJIAAADvAAAAP////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAA6AAA
+        ACj///8A////AAAAAKgAAADIAAAAbgAAAA7///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wAAAABTAAAA7wAAAD7///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wAAAADoAAAANQAAABAAAAAQAAAArQAAAKIAAAC0AAAA8QAAAJQAAAAsAAAAEAAAABAAAAAQAAAAEAAA
+        ABAAAAA1AAAAnwAAAO4AAAA9////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AAAAAMMAAAD/AAAA/wAAAP8AAAD8AAAAP////wAAAAAlAAAAkwAAAPIAAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAO4AAACyAAAAJP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////g///8IP//4AT//wGEf/gP4n/wAHI/44AxP+QfOT/gAOA/8cAAP//
+        eDf//B////wf///8n////J////yf///8n///+A////gP///5T///+A///7gP/wAAB/8AAiH/MeAB/zPw
+        Af8z/wH/M8AD/zPAB/8w/4//AAAf/wIAP/8=
+</value>
+  </data>
+</root>
